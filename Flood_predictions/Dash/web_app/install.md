@@ -1,0 +1,1 @@
+conda create --name rightsideDash --file mod_spec.txt
